@@ -1,5 +1,5 @@
-# Data-Driven-Decision-Making-A-Deep-Dive-into-Online-Customer-Transactions
-Analysis of an Online Store_Customer Transaction dataset (2019-2021)
+# Data-Driven-Decision-Making-Customer-Transaction-Snapshot
+Analysis of an Online Store Customer Transaction dataset (2019-2021)
 
 The primary objective of this project was to extract actionable insights that could inform strategic decision-making within the e-commerce domain.
 
@@ -19,4 +19,8 @@ Suggestions: Tailor marketing strategies and product offerings to all age demogr
 
 4. Employment Status:
 Insight: Employed individuals constitute the majority (71%) of the customer base.
-Suggestions: Develop workplace-centric promotions or loyalty programs. Consider partnering with companies to offer exclusive deals to their employees.
+Suggestions: Develop workplace-centric promotions or loyalty programs. Consider partnering with companies to offer exclusive deals to employees.
+
+5. Payment Method:
+Insight: PayPal had the highest usage (£563,965.67), accounting for 46.10% of the total amount spent. Others and Card followed with £331,683.55 and £327,586.08, respectively.
+Suggestions: Focus on promoting PayPal transactions to boost overall revenue.
